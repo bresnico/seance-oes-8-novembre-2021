@@ -74,17 +74,112 @@ class: about-me, middle, center
 ---
 class: , middle left
 
-### présentation des affaires courantes (avancement)
+### Présentation des affaires courantes
 
 --
 
-### présentation et décision sur la mise en pratique (parte C de chaque module)
+### Présentation et décision sur la mise en pratique de la formation (révision de la partie C)
 
 --
 
-### prochains jalons go no go
+### Présentation et décision concernant les institutions partenaires (nouveau !)
 
 --
 
-### Divers (finances ? ressources ?)
+### Prochains jalons Go / No go
 
+--
+
+### Divers
+
+---
+classe: middle left, inverse
+
+# La formation en bref...
+
+## Mandat
+
+Formation de 44 heures ; TSA ; connaissance des troubles en lien avec les neurosciences ; connaissance d'ouitls
+
+## Autonomie des personnes
+
+3 sessions, comodal
+
+## 
+
+recap.
+en une slide. récupération des connaissances.
+
+---
+
+# News
+
+ce qu'il y a de neuf depuis la dernière fois
+une sorte de releases notes
+
+## organes formalisés
+
+Sous la décision du mandataire 
+Comité de pilotage
+Conseil scientifique
+Groupe consultatif
+
+## Montée en puissance 
+
+Augmentation implication NBR
+Aide administrative
+
+## ajout chapitre nia nia
+
+
+## ajout chapitre niouk niouk
+
+
+---
+
+# En cours d'avancement
+
+## Communication
+
+nom de la formation, modalité, Monica
+
+## ...
+
+
+
+---
+
+# nouvelle partie C
+
+
+---
+
+# institutions partenaires
+
+---
+
+# nos besoins pour avancer
+
+Quel est le public-cible précisément ? Quelles sont les catégories ? Combien de personnes sont touchées ?
+
+Participation uniquement aux conférences pour les enseignant·es en formation ?
+
+Quel·les sont les élèves visé·es ? Elèves de l'API ordinaire, renforcé ? Tous les élèves (rôle de personne-ressource de l'ES) ?
+
+qui communique aux profs en févirer ? aux directions ? quelles listes ??
+
+
+---
+
+# prochains jalons Go / No go
+
+Rôle du conseil scientifique (et ce qu'ils vont vouloir imposer à tel ou tel moment)
+
+Partenaires institutionnels : comment ils vont vouloir influencer le truc...
+
+autres jalons : Gantt !! A jour !!
+
+
+---
+
+# Divers
