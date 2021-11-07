@@ -72,114 +72,217 @@ class: about-me, middle, center
 [`r icons::fontawesome("link")` `r basename(rmarkdown::metadata$url_website)`](`r rmarkdown::metadata$url_website`)</br>
 [`r icons::fontawesome("user-lock")` Stockage du projet (RII)](`r rmarkdown::metadata$url_intranet`)
 ---
-class: , middle left
+class: inverse, middle left
 
-### Présentation des affaires courantes
-
---
-
-### Présentation et décision sur la mise en pratique de la formation (révision de la partie C)
+# Ordre du jour
 
 --
 
-### Présentation et décision concernant les institutions partenaires (nouveau !)
+### 1. En bref...
 
 --
 
-### Prochains jalons Go / No go
+### 2. Affaires courantes
 
 --
 
-### Divers
+### 3. Mise en pratique de la formation (révision de la partie C)
+
+--
+
+### 4. Institutions partenaires (nouveau!)
+
+--
+
+### 5. Prochains jalons Go / No go
+
+--
+
+### 6. Divers
 
 ---
-classe: middle left, inverse
+class: middle left
 
-# La formation en bref...
+# 1. La formation en bref...
 
-## Mandat
+--
 
-Formation de 44 heures ; TSA ; connaissance des troubles en lien avec les neurosciences ; connaissance d'ouitls
+### Mandat
 
-## Autonomie des personnes
+Formation de 44 heures réparties en 4 parties (ou modules) 
 
-3 sessions, comodal
+Contenus : TSA, troubles et neurosciences, compétences psychosociales, connaissance d'outils
 
-## 
+--
 
-recap.
-en une slide. récupération des connaissances.
+### Autonomie des personnes
 
----
+3 sessions
 
-# News
+Comodal 
 
-ce qu'il y a de neuf depuis la dernière fois
-une sorte de releases notes
+--
 
-## organes formalisés
+### Alternance théorie-pratique forte
 
-Sous la décision du mandataire 
-Comité de pilotage
-Conseil scientifique
-Groupe consultatif
+Contenus académiques
 
-## Montée en puissance 
-
-Augmentation implication NBR
-Aide administrative
-
-## ajout chapitre nia nia
-
-
-## ajout chapitre niouk niouk
-
+Connexion avec la culture d'établissement
 
 ---
+class: middle left
 
-# En cours d'avancement
+# 2. Affaires courantes
 
-## Communication
+--
 
-nom de la formation, modalité, Monica
+.pull-left[
 
-## ...
+- Organes formalisés: comité de pilotage, conseil scientifique, groupe consultatif
 
+- Montée en puissance: attribution de ressources internes
 
+- Rédaction "procédure d'inscriptions et masse critique" (en cours)
 
----
+- Rédaction "cours accéléré pour les futur·es engagé·es" (en cours)
 
-# nouvelle partie C
+- Rédaction "connexions avec le MAES Bas-Valais" (en cours)
 
+]
 
----
+--
 
-# institutions partenaires
+.pull-right[
 
----
+- Élaboration d'un cadre de fonctionnement avec les institutions partenaires pressenties
 
-# nos besoins pour avancer
+- Identité de la formation: nom, visuels
 
-Quel est le public-cible précisément ? Quelles sont les catégories ? Combien de personnes sont touchées ?
+- Réflexions sur la possibilité de formaliser la formation
 
-Participation uniquement aux conférences pour les enseignant·es en formation ?
+- Formalisation de l'organigramme (pouvoir décisionnel)
 
-Quel·les sont les élèves visé·es ? Elèves de l'API ordinaire, renforcé ? Tous les élèves (rôle de personne-ressource de l'ES) ?
-
-qui communique aux profs en févirer ? aux directions ? quelles listes ??
-
-
----
-
-# prochains jalons Go / No go
-
-Rôle du conseil scientifique (et ce qu'ils vont vouloir imposer à tel ou tel moment)
-
-Partenaires institutionnels : comment ils vont vouloir influencer le truc...
-
-autres jalons : Gantt !! A jour !!
+]
 
 
 ---
+class: middle, center
 
-# Divers
+```{r out.width = '75%', echo=FALSE}
+# local
+knitr::include_graphics("org.png")
+```
+
+---
+
+class: inverse, middle left
+
+# 3. Mise en pratique (ancienne "partie C")
+
+--
+
+<!-- La partie C pourrait être une communauté de pratiques qui se revoit quelques mois plus tard....une seule fois. Et est-ce que entre temps, on devrait pas exiger un projet ! les gens devraient soumettre un projet à la fin des 4 modules. Un truc qu'il va mettre en oeuvre ! Et on impique jamais les responsables dans le canton. -->
+
+<!-- Les ateliers pratiques pourraient être une sorte de moment de témoignage de personnes-clés où on voit des personnes "qui savent mettre en oeuvre". -->
+
+## Pendant...
+
+- Injection de témoignages dans chaque module (sous forme d'analyse de cas, de vidéo, d'intervention directe)
+
+--
+
+## Puis pour clore la formation...
+
+- Livraison d'un projet de mise en œuvre d'un ou plusieurs apports de la formation dans l'établissement
+- Encouragement à livrer un projet mutualisé
+- Mise à disposition d'un canevas de projet soutenant la mise en pratique et l'identification des freins/leviers
+
+--
+
+## Et ensuite...
+
+- Mise à disposition d'une zone de ressources (Sharepoint ICT-VS géré par l'OES)
+- Sélection et mutualisation des projets (Sharepoint ICT-VS)
+- Encouragement du maintien de communautés de pratiques (rencontres semestrielles facilitées)
+
+---
+class: middle left, inverse
+
+# 4. Institutions partenaires (nouveau!)
+
+--
+
+## IPC (UNFIR)
+## UniDistance
+
+--
+
+## Enjeux : 
+
+- Place dans le comité de pilotage
+- Rôle décisionnel
+
+
+---
+
+class: middle left
+
+# 5. Prochains jalons Go / No go
+
+--
+
+.pull-left[
+
+## Positionnement
+
+- Rôle du conseil scientifique
+
+- Participation partielles des enseignant·es en formation MAES
+
+- Caractère fixe des 3 sessions (en fonction des coûts)
+
+- Partenaires institutionnels
+
+- Aspect "pratique" de la formation
+
+- Chiffres-clés sur le public-cible (total, par catégories)
+
+- Obtention et utilisation des adresses @edu.vs.ch
+
+]
+
+--
+
+.pull-right[
+
+## Dates-clés
+
+- Septembre 2021: Validation financière du projet, validation du concept de formation &#x1f7e0;
+
+- Octobre 2021: Démarrage des organes de formation &#x1F7E2;
+
+- 1.12 (CS) ;  6.12 (GC) ; 10.01 (CS) ; 11.01 (GC)
+
+- Janvier 2022: Validation des équipes de formation &#x1f7e0;
+
+- Février 2022: Validation de la première communication aux ES par l'OES sur proposition de la HEP-VS &#x1f7e0;
+
+]
+
+---
+
+class: middle left
+
+# 6. Divers
+
+---
+
+class: middle,  
+
+## Merci pour votre attention!
+
+
+```{r out.width = '10%', echo=FALSE}
+# local
+knitr::include_graphics("logo.png")
+```
